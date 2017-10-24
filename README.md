@@ -1,3 +1,5 @@
+Fork of https://github.com/autosportlabs/RaceCapture_App
+
 RaceCapture App
 ===============
 
